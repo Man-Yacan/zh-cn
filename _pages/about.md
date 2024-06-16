@@ -17,30 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-算法研究围绕多模态交互与建模，实习业务涉及LLM大模型和图像生成。
+98年生，河南·宝丰人。合肥工业大学土木与水利工程学院市政工程专业在读博士研究生。
 
-**目前正在寻求多模态算法、AIGC相关工作。**
-
-我将硕士毕业于中国科学技术大学, 导师是於俊副教授, 企业导师是平安科技美国硅谷研究院多模态组组长Peng Chang和Iek-Heng Chu。本科毕业于广州大学, 导师是人工智能研究院执行院长李进教授和王显珉副教授。目前参与发表文章10余篇。 <a href='https://scholar.google.com/citations?user=MmZ_y1QAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
-
-本科和研究生期间以来经常参加算法比赛，累计参与国内外AI算法竞赛共20多次，掌握丰富的比赛经验和策略。 此外，担任阿里安全学生专家小组成员, [阿里安全挑战者计划排行榜](https://s.alibaba.com/challenge?spm=a2c22.12281976.0.0.46db2a69WaN1Te)第七名。
-
-
-
+从事**智慧水务**相关研究，博士导师是<a href='https://zhouxiao.tech'>周啸</a>副教授，主要内容为**机器学习、深度学习、图神经网络在给水管网智慧化发展过程中的应用**。 <a href='https://scholar.google.com/citations?user=THtiHxQAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 我的研究领域包括：
-- 多模态交互与建模 (CV/NLP)
-- AIGC
-- 细粒度图像识别
-- 鲁棒机器学习
-
-我的业务方向包括：
-- 大语言模型
-- 探索性数据分析 (EDA)
-- 数据挖掘
-- 风格迁移 (Autoencoder、GAN、Diffusion)
-- 目标检测
-
+- 机器学习、深度学习技术在管网智慧化发展过程中的应用
+- 图论、图神经网络用于给水管网状态估计、预测
 
 <!-- <span class='anchor' id='-news'></span>
 
