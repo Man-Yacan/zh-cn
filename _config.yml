@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "卢科达"
+title                    : "曼亚灿"
 description              : "Stand higher, see further."
-repository               : "wujiekd/wujiekd.github.io"
+repository               : "man-yacan/man-yacan.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,23 +21,23 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "卢科达"
-  avatar           : "images/wujiekd.jpeg"
-  bio              : "中国科学技术大学"
-  location         : "广东 深圳"
+  name             : "曼亚灿"
+  avatar           : "https://manyacan.com/favicon.ico"
+  bio              : "合肥工业大学"
+  location         : "安徽·合肥"
   employer         : 
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=MmZ_y1QAAAAJ"
-  email            : "lukeda@mail.ustc.edu.cn"
+  googlescholar    : "https://scholar.google.com/citations?user=THtiHxQAAAAJ"
+  email            : "manyacan@qq.com"
   researchgate     : 
-  uri              : 
+  uri              : "www.manyacan.com"
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           : "wujiekd"
+  github           : "Man-Yacan"
   google_plus      :
   keybase          :
   instagram        :
@@ -57,7 +57,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  csdn             : "https://blog.csdn.net/weixin_43999137?type=blog"
+  csdn             : 
 
 
 # Reading Files
